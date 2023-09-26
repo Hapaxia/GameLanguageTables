@@ -8,7 +8,7 @@
 | 2  | v | (Go) Back  | Ritornare    | Regresa       | Zurückkehren  | Réintégrer | 戻る        | 回去
 |    | v | Quit       | Abbandonare  | Abandonar     | Aufhören      | Arrêter    | やめる      | 退出
 |    | n | Time       | Tempo        | Tiempo        | Zeit          | Temps      | 時間        | 时间
-|    | n | Lives      | Vite         | Vidas         | Leben         | Vies       | 命の数      | 生活
+| 5  | n | Lives      | Vite         | Vidas         | Leben         | Vies       | 命の数      | 生活
 |    | n | Settings   | Impostazioni | Ajustes       | Einstellungen | Paramètres | 設定        | 设置
 |    | n | Controls   | Controlli    | Controles     | Kontrollen    | Contrôles  | コントロール | 控件
 |    | p | On         | Su           | En            | An            | Sur        | オン        | 操作
@@ -42,6 +42,7 @@
 | 2  | The verb "to go back" or "to return" <tr></tr>
 | 3  | The verb "to select" or "to choose" <tr></tr>
 | 4  | The verb "to fire" or "to shoot" <tr></tr>
+| 5  | A plural noun representing the "number of lives" a player has
 | |
 
 # Types
