@@ -1,5 +1,4 @@
-# Very Common
-| ID | type | English    | Italiana    | Español        | Deutsch       | Français   | 日本語      | 中文
+| ID | * | English    | Italiana    | Español        | Deutsch       | Français   | 日本語      | 中文
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |    | v | Start      | Inizio       | Comenzar      | Starten       | Commencer  | スタート    | 开始
 |    | v | Pause      | Sostare      | Interrumpirse | Pausieren     | S'arrêter  | ポーズ      | 暂停
@@ -24,30 +23,3 @@
 | 4  | v | Fire       | Sparare      | Disparar      | Schießen      | Décocher   | 撃つ        | 射击
 |    | v | Jump       | Saltare      | Saltar        | Springen      | Sauter     | 跳ぶ        | 跳
 | | | | | | | | | |
-
-# Common
-| ID | type | English          | Italiana       | Español         | Deutsch      | Français | 日本語 | 中文
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|    | n | Graphics         | Grafica        | Gráficos        | Grafik       | Graphique | グラフィックス | 图形
-|    | n | Audio            | Audio          | Audio           | Audio        | L'audio   | オーディオ    | 声音的
-|    | n | Volume           | Volume         | Volumen         | Lautstärke   | Volume    | 音量          | 音量
-|    | n | Music            | Musica         | Música          | Musik        | Musique   | 音楽          | 音乐
-|    | n | Sound Effects/FX | Effetti Sonori | Efectos Sonoros | Soundeffekte | Bruitage  | 音響効果      | 声音特效
-| | | | | | | | |
-
-# Info
-| ID | Info (English)
-| :--- | :--- |
-| 1  | The verb "to resume" or "to continue" <tr></tr>
-| 2  | The verb "to go back" or "to return" <tr></tr>
-| 3  | The verb "to select" or "to choose" <tr></tr>
-| 4  | The verb "to fire" or "to shoot" <tr></tr>
-| 5  | A plural noun representing the "number of lives" a player has
-| |
-
-# Types
-- n: noun
-- v: verb
-- a: adverb
-- j: adjective
-- p: preposition
