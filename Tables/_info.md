@@ -1,4 +1,5 @@
 # Info
+Strings in the Tables that are displayed `in this way` have been confirmed by native/fluent speakers.
 
 ## Very Common
 
