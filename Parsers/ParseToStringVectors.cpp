@@ -13,7 +13,7 @@ std::vector<std::vector<std::string>> parseToStringVectors(const std::string& fi
 
 	auto trimmedString = [](const std::string& string)
 	{
-		const std::string ws{ " \t" };
+		const std::string ws{ " \t`" };
 		const std::size_t begin{ string.find_first_not_of(ws) };
 		return (begin == std::string::npos) ? std::string() : string.substr(begin, string.find_last_not_of(ws) + 1u - begin);
 	};
