@@ -66,7 +66,6 @@ bool parseToLingo(const std::string& filename, Lingo<T>& lingo)
 
 
 	const std::size_t numberOfLanguages{ result[0u].size() };
-	for (std::size_t l{ 0u }; l < numberOfLanguages; ++l)
 	for (std::size_t l{ 1u }; l < numberOfLanguages; ++l)
 		lingo.addLanguage();
 	for (std::size_t l{ 0u }; l < numberOfLanguages; ++l)
